@@ -1,5 +1,5 @@
 # LogisticRegression
-Logistic regression from scratch in Python
+Logistic regression in Python
 
 This example uses gradient descent to fit the model.
-It also contains a Scikit Learn's way of doing logistic regression, so we can compare the two implementations.
+It contains a Scikit Learn's method of doing logistic regression too, for a comparison of the two implementations.
